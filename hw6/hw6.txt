@@ -1,0 +1,13 @@
+這次作業為手寫題，總共有兩小題。
+
+(Please write your answers on a A4 paper)
+題目:
+
+(1)Given that |V(G)|=n，a spanning tree has n-1 edges. (ppt chap06 p.33)
+
+(2)No edge can be in two or more biconnected components of a graph. (ppt chap06 p.35)
+
+請分別說明或證明這兩個敘述為什麼成立。
+
+Deadline: 12/16下課前繳交
+有疑問請來信詢問助教: 高豪辰 Email: p76051276@mail.ncku.edu.tw
